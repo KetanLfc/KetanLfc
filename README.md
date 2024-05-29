@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Ketan Ramgoolam. 26 years old, software engineering student. 
-- 👀 I’m interested in Web development, Cyber Security, AI
-- 🌱 I’m currently learning Angular, C# while doing an internship 
+- 👀 I’m interested in Web and Game development, Cyber Security, AI/ML
+- 🌱 I’m currently working on my final year project. 
 - 💞️ I already know :
 Languages:- Java, JavaScript, Typescript, PHP, Python, C#
-Frameworks: ASP.NET, Angular
+Frameworks: .NET, Angular
 Databases: MySQL, Oracle
 Principles: UI/UX Design, System Design & Analysis, Agile Project Management, Data Structures & Algorithms
 - 📫 Contact me via ketanlfc8@gmail.com // ketanramgoolam8@gmail.com
