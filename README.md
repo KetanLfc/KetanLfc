@@ -3,11 +3,11 @@
 - 🌱 I’m currently working on my final year project. 
 - 💞️ I already know :
 Languages:- Java, JavaScript, Typescript, PHP, Python, C#, Dart.
-Frameworks: .NET, Angular, Flutter
-Databases: MySQL, Oracle, NoSQL
-Principles: UI/UX Design, System Design & Analysis, Agile Project Management, Data Structures & Algorithms
-- 📫 Contact me via ketanlfc8@gmail.com // ketanramgoolam8@gmail.com
-- 😄 Pronouns: HE
+Frameworks: .NET, Angular, Flutter.
+Databases: MySQL, Oracle, NoSQL, SQLite.
+Principles: UI/UX Design, System Design & Analysis, Agile Project Management, Data Structures & Algorithms.
+- 📫 Contact me via ketanlfc8@gmail.com // ketanramgoolam8@gmail.com.
+- 😄 Pronouns: HE.
 - ⚡ Fun fact: Big football enthousiast, like playing chess, and a cinephile.
 
 <!---
