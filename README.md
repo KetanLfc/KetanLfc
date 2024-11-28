@@ -5,7 +5,7 @@
 Languages:- Java, JavaScript, Typescript, PHP, Python, C#, Dart, Solidity.
 Frameworks: .NET, Angular, Flutter.
 Databases: MySQL, Oracle, NoSQL, SQLite.
-Principles: UI/UX Design, System Design & Analysis, Agile Project Management, Data Structures & Algorithms.
+Principles: UI/UX Design, System Design & Analysis, Agile Project Management, Data Structures & Algorithms, Software Quality & Testing.
 - 📫 Contact me via ketanlfc8@gmail.com // ketanramgoolam8@gmail.com.
 - 😄 Pronouns: HE.
 - ⚡ Fun fact: Big football enthousiast, like playing chess, and a cinephile.
