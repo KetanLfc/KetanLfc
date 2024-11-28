@@ -8,7 +8,7 @@ Databases: MySQL, Oracle, NoSQL, SQLite.
 Principles: UI/UX Design, System Design & Analysis, Agile Project Management, Data Structures & Algorithms, Software Quality & Testing.
 - 📫 Contact me via ketanlfc8@gmail.com // ketanramgoolam8@gmail.com.
 - 😄 Pronouns: HE.
-- ⚡ Fun fact: Big football enthousiast, like playing chess, and a cinephile.
+- ⚡ Fun fact: Big football enthousiast, like playing chess, and a cinephile. (Besides Coding of course ;))
 
 <!---
 KetanLfc/KetanLfc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
